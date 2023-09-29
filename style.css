@@ -18,3 +18,15 @@
 .alert_icon {
     width: 20px;
 }
+
+@media screen and (max-width:450px) {
+    html {
+        font-size: 12.5px;
+    }
+}
+
+@media screen and (max-width:350px) {
+    html {
+        font-size: 9.5px;
+    }
+}
